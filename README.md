@@ -1,8 +1,6 @@
 # Wittr
 
-This is a silly little demo app for an offline-first course.
-
-You could run the app either using machine dependnecies, or using docker
+Wittr is an 'Offline First' web application that is powered by Service Workers and IndexDB
 
 ## Running using local machine
 
@@ -32,23 +30,6 @@ You can also configure the ports:
 
 ```sh
 npm run serve -- --server-port=8000 --config-server-port=8001
-```
-
-## Running using docker
-
-```sh
-docker-compose up
-```
-
-Here also you should have the app server at [localhost:8888](http://localhost:8888) and the config server at [localhost:8889](http://localhost:8889).
-
-You can configure the ports by changing them in `docker-compose.yml` before starting:
-
-```yml
-ports:
-  # <host>:<container>
-  - 8000:8888
-  - 8001:8889
 ```
 
 ## Troubleshooting
