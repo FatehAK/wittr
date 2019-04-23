@@ -1,6 +1,6 @@
 # Wittr
 
-Wittr is an 'Offline First' web application that is powered by Service Workers and IndexDB
+Wittr is an 'Offline First' Progressive Web Application (PWA) that is powered by Service Workers and IndexDB
 
 ## Running using local machine
 
