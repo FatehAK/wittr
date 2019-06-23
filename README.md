@@ -6,7 +6,7 @@ Wittr is an 'Offline First' Progressive Web Application (PWA) that is powered by
 
 ### Installing
 
-Dependencies:
+Dependencies
 
 * [Node.js](https://nodejs.org/en/) v0.12.7 or above
 
