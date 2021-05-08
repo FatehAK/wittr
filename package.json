@@ -35,7 +35,7 @@
     "hbsfy": "^2.2.1",
     "hbsify": "^1.0.1",
     "idb": "^1.0.1",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.21",
     "markov": "0.0.7",
     "merge-stream": "^1.0.0",
     "minimist": "^1.2.0",
