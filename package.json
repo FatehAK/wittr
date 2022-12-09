@@ -20,7 +20,7 @@
     "del": "^1.2.1",
     "es6-promise": "^3.0.2",
     "eslint": "^4.10.0",
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "gulp": "^3.9.0",
     "gulp-babel": "^5.2.1",
     "gulp-define-module": "^0.1.3",
